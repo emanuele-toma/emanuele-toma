@@ -1,8 +1,8 @@
 # 🙂 Hey! Nice to see you.</h1>
 
 
-Welcome to my page!
-I'm Emanuele, Fullstack developer from <img src="https://flagsapi.com/IT/flat/64.png" width="16"/> <b>Bergamo, Italy</b>
+### Welcome to my page!
+### I'm Emanuele, Fullstack developer from ![Flag](https://flagcdn.com/20x15/it.png) **Bergamo, Italy**
 ## Things I code with
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
