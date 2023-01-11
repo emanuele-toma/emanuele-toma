@@ -2,7 +2,7 @@
 
 
 ### Welcome to my page!
-### I'm Emanuele, Fullstack developer from ![Flag](https://flagcdn.com/20x15/it.png) **Bergamo, Italy**
+### I'm Emanuele, Full Stack Developer from ![Flag](https://flagcdn.com/20x15/it.png) **Bergamo, Italy**
 ## Things I code with
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
